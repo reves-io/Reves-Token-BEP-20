@@ -1,2 +1,2 @@
-# Reves-Token-BEP-20
-The contract code for the Reves BEP20 token
+# AIRT-Token-BEP-20
+The contract code for the AIRT BEP20 token
